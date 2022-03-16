@@ -1,1 +1,1 @@
-my first directory
+Master project for ALX Students.
